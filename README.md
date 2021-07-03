@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laserblade41
-- 👀 Soon to be student and amatuer developer
+- 👀 Soon to be student and amateur developer
 - 🌱 I’m currently learning C#, python and lua
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
